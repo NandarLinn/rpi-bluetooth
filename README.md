@@ -1,4 +1,4 @@
-# rpi-bluetooth
+# Sending Data using Bluetooth between to RaspberryPis
 
 pip3 install PyBluez
 
